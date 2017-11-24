@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Make Quokka works in angular 2+.",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "reflect-metadata": "0.1.10"
   },
   "scripts": {
